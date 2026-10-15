@@ -1,6 +1,6 @@
 # Fulfillment tým: skilly pro Claude
 
-Šest „zaměstnanci" vytvoření z rolí v této složce, přeložení do češtiny a upravení pro fulfillment:
+Šest „zaměstnanců" vytvořených z rolí v této složce, přeložených do češtiny a upravených pro fulfillment:
 
 | Skill | Jak ho zavolat v chatu | Na co |
 |---|---|---|
